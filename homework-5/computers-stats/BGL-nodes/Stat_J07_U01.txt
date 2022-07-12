@@ -1,0 +1,20 @@
+
+== Total error entries ==
+1780
+
+== Breakup by CATEGORY ==
+J07-U01 1780
+
+== Breakup by NODE* ==
+R03-M1-NF 960
+R03-M0-N7 390
+R72-M0-N5 46
+R63-M0-NF 6
+R63-M0-NE 6
+R63-M0-ND 6
+R63-M0-NC 6
+R63-M0-NB 6
+R63-M0-NA 6
+R63-M0-N9 6
+  * only the 10 most occurring nodes are reported
+

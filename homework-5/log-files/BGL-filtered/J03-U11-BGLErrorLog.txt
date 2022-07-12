@@ -1,0 +1,1020 @@
+1129738721 R25-M0-NE J03-U11  machine check interrupt (bit=0x1d): L2 dcache unit data parity error
+1129738721 R25-M0-NE J03-U11  instruction address: 0x0000bd80
+1129738721 R25-M0-NE J03-U11  machine check status register: 0x91800000
+1129738721 R25-M0-NE J03-U11  summary...........................1
+1129738721 R25-M0-NE J03-U11  instruction plb error.............0
+1129738721 R25-M0-NE J03-U11  data read plb error...............0
+1129738722 R25-M0-NE J03-U11  data write plb error..............1
+1129738722 R25-M0-NE J03-U11  tlb error.........................0
+1129738722 R25-M0-NE J03-U11  i-cache parity error..............0
+1129738722 R25-M0-NE J03-U11  d-cache search parity error.......0
+1129738722 R25-M0-NE J03-U11  d-cache flush parity error........1
+1129738722 R25-M0-NE J03-U11  imprecise machine check...........1
+1129738723 R25-M0-NE J03-U11  machine state register: 0x00003000
+1129738723 R25-M0-NE J03-U11  wait state enable.................0
+1129738723 R25-M0-NE J03-U11  critical input interrupt enable...0
+1129738723 R25-M0-NE J03-U11  external input interrupt enable...0
+1129738723 R25-M0-NE J03-U11  problem state (0=sup,1=usr).......0
+1129738723 R25-M0-NE J03-U11  floating point instr. enabled.....1
+1129738724 R25-M0-NE J03-U11  machine check enable..............1
+1129738724 R25-M0-NE J03-U11  floating pt ex mode 0 enable......0
+1129738726 R25-M0-NE J03-U11  debug wait enable.................0
+1129738728 R25-M0-NE J03-U11  debug interrupt enable............0
+1129738732 R25-M0-NE J03-U11  floating pt ex mode 1 enable......0
+1129738737 R25-M0-NE J03-U11  instruction address space.........0
+1129738741 R25-M0-NE J03-U11  data address space................0
+1129738743 R25-M0-NE J03-U11  core configuration register: 0x40002000
+1129738746 R25-M0-NE J03-U11  disable store gathering..................0
+1129738749 R25-M0-NE J03-U11  disable apu instruction broadcast........0
+1129738754 R25-M0-NE J03-U11  disable trace broadcast..................0
+1129738759 R25-M0-NE J03-U11  guaranteed instruction cache block touch.0
+1129738762 R25-M0-NE J03-U11  guaranteed data cache block touch........1
+1129738764 R25-M0-NE J03-U11  force load/store alignment...............0
+1129738765 R25-M0-NE J03-U11  icache prefetch depth....................0
+1129738766 R25-M0-NE J03-U11  icache prefetch threshold................0
+1129738766 R25-M0-NE J03-U11  general purpose registers:
+1129738766 R25-M0-NE J03-U11  0:00000041 1:00085e60 2:1eeeeeee 3:00000000
+1129738766 R25-M0-NE J03-U11  4:000099c8 5:00055920 6:00055910 7:00095110
+1129738767 R25-M0-NE J03-U11  8:00015630 9:0004c5a2 10:038f9e01 11:000093ad
+1129738767 R25-M0-NE J03-U11  12:000558b0 13:1eeeeeee 14:01d78220 15:000fffc0
+1129738767 R25-M0-NE J03-U11  16:00100380 17:00100000 18:00000000 19:00000000
+1129738768 R25-M0-NE J03-U11  20:00000000 21:00000001 22:00085e70 23:00085fd8
+1129738768 R25-M0-NE J03-U11  24:00085fdc 25:00000000 26:00000000 27:00100000
+1129738768 R25-M0-NE J03-U11  28:000558c0 29:038edb80 30:00040000 31:00040230
+1129738768 R25-M0-NE J03-U11  special purpose registers:
+1129738769 R25-M0-NE J03-U11  lr:0000bd44 cr:40002424 xer:20000002 ctr:00009c70
+1129738769 R25-M0-NE J03-U11  rts panic! - stopping execution
+1130529570 R63-M1-N7 J03-U11  rts: kernel terminated for reason 1004
+1130529571 R63-M1-N6 J03-U11  rts: kernel terminated for reason 1004
+1130529572 R63-M1-N9 J03-U11  rts: kernel terminated for reason 1004
+1130529573 R63-M1-NA J03-U11  rts: kernel terminated for reason 1004
+1130529574 R63-M1-N3 J03-U11  rts: kernel terminated for reason 1004
+1130529576 R63-M1-NB J03-U11  rts: kernel terminated for reason 1004
+1130529577 R63-M1-N2 J03-U11  rts: kernel terminated for reason 1004
+1130529578 R63-M1-N5 J03-U11  rts: kernel terminated for reason 1004
+1130529579 R62-M1-NF J03-U11  rts: kernel terminated for reason 1004
+1130529580 R63-M1-NF J03-U11  rts: kernel terminated for reason 1004
+1130529581 R63-M1-ND J03-U11  rts: kernel terminated for reason 1004
+1130529582 R63-M1-N1 J03-U11  rts: kernel terminated for reason 1004
+1130529583 R63-M1-NE J03-U11  rts: kernel terminated for reason 1004
+1130529584 R62-M1-N9 J03-U11  rts: kernel terminated for reason 1004
+1130529586 R62-M1-NB J03-U11  rts: kernel terminated for reason 1004
+1130529586 R62-M1-NA J03-U11  rts: kernel terminated for reason 1004
+1130529587 R62-M1-NE J03-U11  rts: kernel terminated for reason 1004
+1130529588 R62-M1-ND J03-U11  rts: kernel terminated for reason 1004
+1130529590 R62-M1-N3 J03-U11  rts: kernel terminated for reason 1004
+1130529591 R62-M1-N7 J03-U11  rts: kernel terminated for reason 1004
+1130529592 R62-M1-N2 J03-U11  rts: kernel terminated for reason 1004
+1130529593 R62-M1-N1 J03-U11  rts: kernel terminated for reason 1004
+1130529594 R62-M1-N5 J03-U11  rts: kernel terminated for reason 1004
+1130529596 R62-M1-N6 J03-U11  rts: kernel terminated for reason 1004
+1130529597 R63-M1-NC J03-U11  rts: kernel terminated for reason 1004
+1130529598 R63-M1-N4 J03-U11  rts: kernel terminated for reason 1004
+1130529599 R63-M1-N0 J03-U11  rts: kernel terminated for reason 1004
+1130529601 R63-M1-N8 J03-U11  rts: kernel terminated for reason 1004
+1130529602 R62-M1-N0 J03-U11  rts: kernel terminated for reason 1004
+1130529603 R62-M1-N4 J03-U11  rts: kernel terminated for reason 1004
+1130529604 R62-M1-N8 J03-U11  rts: kernel terminated for reason 1004
+1130529605 R62-M1-NC J03-U11  rts: kernel terminated for reason 1004
+1130529607 R63-M1-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529607 R63-M1-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529608 R63-M1-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529609 R63-M1-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529609 R63-M1-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529610 R63-M1-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529610 R63-M1-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529611 R63-M1-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529612 R62-M1-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529612 R63-M1-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529613 R63-M1-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529614 R63-M1-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529614 R63-M1-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529615 R62-M1-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529616 R62-M1-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529616 R62-M1-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529617 R62-M1-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529618 R62-M1-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529618 R62-M1-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529619 R62-M1-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529620 R62-M1-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529620 R62-M1-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529621 R62-M1-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529622 R62-M1-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529622 R63-M1-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529623 R63-M1-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529623 R63-M1-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529624 R63-M1-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529625 R62-M1-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529625 R62-M1-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529626 R62-M1-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1130529627 R62-M1-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131146365 R77-M0-NC J03-U11  machine check interrupt
+1131146365 R77-M0-NC J03-U11  instruction address: 0x0010cbb0
+1131146365 R77-M0-NC J03-U11  machine check status register: 0x81000000
+1131146365 R77-M0-NC J03-U11  summary...........................1
+1131146365 R77-M0-NC J03-U11  instruction plb error.............0
+1131146366 R77-M0-NC J03-U11  data read plb error...............0
+1131146366 R77-M0-NC J03-U11  data write plb error..............0
+1131146366 R77-M0-NC J03-U11  tlb error.........................0
+1131146366 R77-M0-NC J03-U11  i-cache parity error..............0
+1131146366 R77-M0-NC J03-U11  d-cache search parity error.......0
+1131146366 R77-M0-NC J03-U11  d-cache flush parity error........1
+1131146366 R77-M0-NC J03-U11  imprecise machine check...........0
+1131146366 R77-M0-NC J03-U11  machine state register: 0x0002f900
+1131146366 R77-M0-NC J03-U11  wait state enable.................0
+1131146367 R77-M0-NC J03-U11  critical input interrupt enable...1
+1131146367 R77-M0-NC J03-U11  external input interrupt enable...1
+1131146368 R77-M0-NC J03-U11  problem state (0=sup,1=usr).......1
+1131146369 R77-M0-NC J03-U11  floating point instr. enabled.....1
+1131146371 R77-M0-NC J03-U11  machine check enable..............1
+1131146372 R77-M0-NC J03-U11  floating pt ex mode 0 enable......1
+1131146373 R77-M0-NC J03-U11  debug wait enable.................0
+1131146374 R77-M0-NC J03-U11  debug interrupt enable............0
+1131146375 R77-M0-NC J03-U11  floating pt ex mode 1 enable......1
+1131146375 R77-M0-NC J03-U11  instruction address space.........0
+1131146375 R77-M0-NC J03-U11  data address space................0
+1131146375 R77-M0-NC J03-U11  core configuration register: 0x00002000
+1131146375 R77-M0-NC J03-U11  disable store gathering..................0
+1131146375 R77-M0-NC J03-U11  disable apu instruction broadcast........0
+1131146376 R77-M0-NC J03-U11  disable trace broadcast..................0
+1131146376 R77-M0-NC J03-U11  guaranteed instruction cache block touch.0
+1131146376 R77-M0-NC J03-U11  guaranteed data cache block touch........1
+1131146376 R77-M0-NC J03-U11  force load/store alignment...............0
+1131146376 R77-M0-NC J03-U11  icache prefetch depth....................0
+1131146376 R77-M0-NC J03-U11  icache prefetch threshold................0
+1131146376 R77-M0-NC J03-U11  general purpose registers:
+1131146376 R77-M0-NC J03-U11  0:00000001 1:0feea2d0 2:1eeeeeee 3:0000025a
+1131146377 R77-M0-NC J03-U11  4:00000007 5:021bf5b8 6:021b75b8 7:01cbad08
+1131146377 R77-M0-NC J03-U11  8:07243b28 9:021b8508 10:021c0508 11:01cb85b8
+1131146377 R77-M0-NC J03-U11  12:074f1b28 13:1eeeeeee 14:00000a63 15:000001f2
+1131146377 R77-M0-NC J03-U11  16:07511b28 17:0750a860 18:074e1b28 19:01caf580
+1131146377 R77-M0-NC J03-U11  20:07505548 21:066add90 22:061add88 23:ffff63c8
+1131146377 R77-M0-NC J03-U11  24:06fc2ba0 25:03fe032c 26:074dc810 27:07e5c53c
+1131146377 R77-M0-NC J03-U11  28:0756c810 29:0755c810 30:0750c810 31:00a6c9f0
+1131146377 R77-M0-NC J03-U11  special purpose registers:
+1131146378 R77-M0-NC J03-U11  lr:0011a0a8 cr:44008222 xer:20000002 ctr:00000069
+1131146378 R77-M0-NC J03-U11  rts panic! - stopping execution
+1131483539 R63-M0-N3 J03-U11  rts: kernel terminated for reason 1004
+1131483540 R63-M0-N1 J03-U11  rts: kernel terminated for reason 1004
+1131483541 R63-M0-N6 J03-U11  rts: kernel terminated for reason 1004
+1131483542 R63-M0-N7 J03-U11  rts: kernel terminated for reason 1004
+1131483543 R63-M0-NB J03-U11  rts: kernel terminated for reason 1004
+1131483544 R63-M0-N2 J03-U11  rts: kernel terminated for reason 1004
+1131483545 R63-M0-NF J03-U11  rts: kernel terminated for reason 1004
+1131483546 R63-M0-NE J03-U11  rts: kernel terminated for reason 1004
+1131483547 R63-M0-N9 J03-U11  rts: kernel terminated for reason 1004
+1131483548 R63-M0-NA J03-U11  rts: kernel terminated for reason 1004
+1131483549 R63-M0-N5 J03-U11  rts: kernel terminated for reason 1004
+1131483550 R63-M0-ND J03-U11  rts: kernel terminated for reason 1004
+1131483551 R63-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131483552 R63-M0-NC J03-U11  rts: kernel terminated for reason 1004
+1131483553 R63-M0-N8 J03-U11  rts: kernel terminated for reason 1004
+1131483555 R63-M0-N4 J03-U11  rts: kernel terminated for reason 1004
+1131483555 R63-M0-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483556 R63-M0-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483557 R63-M0-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483558 R63-M0-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483558 R63-M0-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483559 R63-M0-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483559 R63-M0-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483560 R63-M0-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483561 R63-M0-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483561 R63-M0-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483562 R63-M0-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483563 R63-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483564 R63-M0-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483565 R63-M0-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131483565 R63-M0-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00000001 7a3d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486120 R63-M0-N3 J03-U11  rts: kernel terminated for reason 1004
+1131486121 R63-M0-N1 J03-U11  rts: kernel terminated for reason 1004
+1131486122 R63-M0-N6 J03-U11  rts: kernel terminated for reason 1004
+1131486124 R63-M0-N7 J03-U11  rts: kernel terminated for reason 1004
+1131486125 R63-M0-NB J03-U11  rts: kernel terminated for reason 1004
+1131486126 R63-M0-N2 J03-U11  rts: kernel terminated for reason 1004
+1131486127 R63-M0-NF J03-U11  rts: kernel terminated for reason 1004
+1131486128 R63-M0-NE J03-U11  rts: kernel terminated for reason 1004
+1131486129 R63-M0-N9 J03-U11  rts: kernel terminated for reason 1004
+1131486130 R63-M0-NA J03-U11  rts: kernel terminated for reason 1004
+1131486131 R63-M0-N5 J03-U11  rts: kernel terminated for reason 1004
+1131486132 R63-M0-ND J03-U11  rts: kernel terminated for reason 1004
+1131486133 R63-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131486134 R63-M0-NC J03-U11  rts: kernel terminated for reason 1004
+1131486135 R63-M0-N8 J03-U11  rts: kernel terminated for reason 1004
+1131486136 R63-M0-N4 J03-U11  rts: kernel terminated for reason 1004
+1131486137 R63-M0-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486139 R63-M0-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486139 R63-M0-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486141 R63-M0-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486142 R63-M0-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486143 R63-M0-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486144 R63-M0-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486145 R63-M0-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486146 R63-M0-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486147 R63-M0-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486148 R63-M0-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486150 R63-M0-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486151 R63-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486152 R63-M0-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486153 R63-M0-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131486154 R63-M0-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00024f60 7fff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499502 R62-M0-NF J03-U11  rts: kernel terminated for reason 1004
+1131499503 R62-M0-NE J03-U11  rts: kernel terminated for reason 1004
+1131499504 R62-M0-N6 J03-U11  rts: kernel terminated for reason 1004
+1131499505 R62-M0-NA J03-U11  rts: kernel terminated for reason 1004
+1131499507 R62-M0-N2 J03-U11  rts: kernel terminated for reason 1004
+1131499508 R62-M0-N3 J03-U11  rts: kernel terminated for reason 1004
+1131499509 R62-M0-NB J03-U11  rts: kernel terminated for reason 1004
+1131499510 R62-M0-N9 J03-U11  rts: kernel terminated for reason 1004
+1131499511 R62-M0-N5 J03-U11  rts: kernel terminated for reason 1004
+1131499512 R62-M0-N7 J03-U11  rts: kernel terminated for reason 1004
+1131499513 R62-M0-N1 J03-U11  rts: kernel terminated for reason 1004
+1131499514 R62-M0-ND J03-U11  rts: kernel terminated for reason 1004
+1131499515 R62-M0-NC J03-U11  rts: kernel terminated for reason 1004
+1131499517 R62-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131499518 R62-M0-N4 J03-U11  rts: kernel terminated for reason 1004
+1131499519 R62-M0-N8 J03-U11  rts: kernel terminated for reason 1004
+1131499520 R62-M0-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499521 R62-M0-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499522 R62-M0-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499522 R62-M0-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499523 R62-M0-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499523 R62-M0-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499524 R62-M0-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499525 R62-M0-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499525 R62-M0-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499526 R62-M0-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499527 R62-M0-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499528 R62-M0-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499528 R62-M0-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499529 R62-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499530 R62-M0-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131499530 R62-M0-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680319 R63-M0-N3 J03-U11  rts: kernel terminated for reason 1004
+1131680321 R63-M0-N1 J03-U11  rts: kernel terminated for reason 1004
+1131680322 R63-M0-N6 J03-U11  rts: kernel terminated for reason 1004
+1131680323 R63-M0-N7 J03-U11  rts: kernel terminated for reason 1004
+1131680324 R63-M0-NB J03-U11  rts: kernel terminated for reason 1004
+1131680325 R63-M0-N2 J03-U11  rts: kernel terminated for reason 1004
+1131680326 R63-M0-NF J03-U11  rts: kernel terminated for reason 1004
+1131680327 R63-M0-NE J03-U11  rts: kernel terminated for reason 1004
+1131680328 R63-M0-N9 J03-U11  rts: kernel terminated for reason 1004
+1131680329 R63-M0-NA J03-U11  rts: kernel terminated for reason 1004
+1131680330 R63-M0-N5 J03-U11  rts: kernel terminated for reason 1004
+1131680331 R63-M0-ND J03-U11  rts: kernel terminated for reason 1004
+1131680332 R63-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1131680334 R63-M0-NC J03-U11  rts: kernel terminated for reason 1004
+1131680335 R63-M0-N8 J03-U11  rts: kernel terminated for reason 1004
+1131680336 R63-M0-N4 J03-U11  rts: kernel terminated for reason 1004
+1131680337 R63-M0-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680338 R63-M0-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680339 R63-M0-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680340 R63-M0-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680341 R63-M0-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680342 R63-M0-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680344 R63-M0-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680344 R63-M0-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680345 R63-M0-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680346 R63-M0-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680348 R63-M0-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680349 R63-M0-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680350 R63-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680351 R63-M0-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680352 R63-M0-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1131680353 R63-M0-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00f607bb 39b40003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132018679 R57-M1-N0 J03-U11  external input interrupt (unit=0x02 bit=0x00): uncorrectable torus error
+1132018679 R57-M1-N0 J03-U11  Torus non-recoverable error DCRs follow.
+1132018679 R57-M1-N0 J03-U11  DCR 0x2DC : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2DD : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2DE : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2DF : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E0 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E1 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E2 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E3 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E4 : 0x08000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E5 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E6 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E7 : 0x00000000
+1132018679 R57-M1-N0 J03-U11  DCR 0x2E8 : 0x00000000
+1132021523 R46-M1-NE J03-U11  rts: kernel terminated for reason 1004
+1132021524 R46-M1-NF J03-U11  rts: kernel terminated for reason 1004
+1132021524 R46-M1-N1 J03-U11  rts: kernel terminated for reason 1004
+1132021526 R46-M1-N9 J03-U11  rts: kernel terminated for reason 1004
+1132021527 R46-M1-N3 J03-U11  rts: kernel terminated for reason 1004
+1132021528 R46-M1-N7 J03-U11  rts: kernel terminated for reason 1004
+1132021529 R46-M1-N5 J03-U11  rts: kernel terminated for reason 1004
+1132021530 R46-M1-N2 J03-U11  rts: kernel terminated for reason 1004
+1132021531 R46-M1-ND J03-U11  rts: kernel terminated for reason 1004
+1132021533 R46-M1-NB J03-U11  rts: kernel terminated for reason 1004
+1132021534 R46-M1-NA J03-U11  rts: kernel terminated for reason 1004
+1132021535 R46-M1-N6 J03-U11  rts: kernel terminated for reason 1004
+1132021536 R46-M1-NC J03-U11  rts: kernel terminated for reason 1004
+1132021537 R46-M1-N4 J03-U11  rts: kernel terminated for reason 1004
+1132021538 R46-M1-N0 J03-U11  rts: kernel terminated for reason 1004
+1132021539 R46-M1-N8 J03-U11  rts: kernel terminated for reason 1004
+1132021540 R46-M1-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021541 R46-M1-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021541 R46-M1-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021542 R46-M1-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021543 R46-M1-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021543 R46-M1-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021544 R46-M1-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021544 R46-M1-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021545 R46-M1-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021546 R46-M1-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021546 R46-M1-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021547 R46-M1-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021548 R46-M1-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021548 R46-M1-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021549 R46-M1-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132021550 R46-M1-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132035291 R51-M1-NA J03-U11  external input interrupt (unit=0x02 bit=0x00): uncorrectable torus error
+1132035292 R51-M1-NA J03-U11  Torus non-recoverable error DCRs follow.
+1132035292 R51-M1-NA J03-U11  DCR 0x2DC : 0x00000000
+1132035292 R51-M1-NA J03-U11  DCR 0x2DD : 0x00000000
+1132035292 R51-M1-NA J03-U11  DCR 0x2DE : 0x00000000
+1132035292 R51-M1-NA J03-U11  DCR 0x2DF : 0x00000000
+1132035292 R51-M1-NA J03-U11  DCR 0x2E0 : 0x00000000
+1132035293 R51-M1-NA J03-U11  DCR 0x2E1 : 0x00000000
+1132035293 R51-M1-NA J03-U11  DCR 0x2E2 : 0x00000000
+1132035293 R51-M1-NA J03-U11  DCR 0x2E3 : 0x00000000
+1132035293 R51-M1-NA J03-U11  DCR 0x2E4 : 0x00000000
+1132035293 R51-M1-NA J03-U11  DCR 0x2E5 : 0x00000800
+1132035294 R51-M1-NA J03-U11  DCR 0x2E6 : 0x00000000
+1132035294 R51-M1-NA J03-U11  DCR 0x2E7 : 0x00000000
+1132035294 R51-M1-NA J03-U11  DCR 0x2E8 : 0x00000000
+1132111090 R56-M0-N5 J03-U11  rts: kernel terminated for reason 1004
+1132111093 R56-M0-NA J03-U11  rts: kernel terminated for reason 1004
+1132111095 R56-M0-N1 J03-U11  rts: kernel terminated for reason 1004
+1132111098 R56-M0-NE J03-U11  rts: kernel terminated for reason 1004
+1132111100 R56-M0-N2 J03-U11  rts: kernel terminated for reason 1004
+1132111102 R56-M0-N9 J03-U11  rts: kernel terminated for reason 1004
+1132111104 R56-M1-N1 J03-U11  rts: kernel terminated for reason 1004
+1132111107 R56-M0-N7 J03-U11  rts: kernel terminated for reason 1004
+1132111109 R56-M1-N3 J03-U11  rts: kernel terminated for reason 1004
+1132111112 R56-M0-NF J03-U11  rts: kernel terminated for reason 1004
+1132111114 R56-M0-N3 J03-U11  rts: kernel terminated for reason 1004
+1132111116 R56-M0-NB J03-U11  rts: kernel terminated for reason 1004
+1132111119 R56-M0-N6 J03-U11  rts: kernel terminated for reason 1004
+1132111122 R57-M1-NA J03-U11  rts: kernel terminated for reason 1004
+1132111124 R56-M1-N2 J03-U11  rts: kernel terminated for reason 1004
+1132111127 R57-M0-N3 J03-U11  rts: kernel terminated for reason 1004
+1132111129 R56-M1-NB J03-U11  rts: kernel terminated for reason 1004
+1132111131 R56-M1-N7 J03-U11  rts: kernel terminated for reason 1004
+1132111132 R57-M0-N2 J03-U11  rts: kernel terminated for reason 1004
+1132111135 R57-M1-NE J03-U11  rts: kernel terminated for reason 1004
+1132111138 R57-M1-NF J03-U11  rts: kernel terminated for reason 1004
+1132111141 R57-M0-NB J03-U11  rts: kernel terminated for reason 1004
+1132111143 R57-M1-NB J03-U11  rts: kernel terminated for reason 1004
+1132111145 R57-M0-N1 J03-U11  rts: kernel terminated for reason 1004
+1132111148 R56-M1-N9 J03-U11  rts: kernel terminated for reason 1004
+1132111150 R56-M1-NE J03-U11  rts: kernel terminated for reason 1004
+1132111153 R56-M1-NF J03-U11  rts: kernel terminated for reason 1004
+1132111157 R56-M1-N5 J03-U11  rts: kernel terminated for reason 1004
+1132111160 R56-M1-ND J03-U11  rts: kernel terminated for reason 1004
+1132111163 R56-M1-N6 J03-U11  rts: kernel terminated for reason 1004
+1132111166 R57-M1-N1 J03-U11  rts: kernel terminated for reason 1004
+1132111168 R57-M0-NA J03-U11  rts: kernel terminated for reason 1004
+1132111171 R57-M1-N5 J03-U11  rts: kernel terminated for reason 1004
+1132111173 R57-M1-N6 J03-U11  rts: kernel terminated for reason 1004
+1132111175 R57-M0-N7 J03-U11  rts: kernel terminated for reason 1004
+1132111177 R57-M1-N3 J03-U11  rts: kernel terminated for reason 1004
+1132111178 R57-M0-ND J03-U11  rts: kernel terminated for reason 1004
+1132111180 R57-M0-N5 J03-U11  rts: kernel terminated for reason 1004
+1132111182 R57-M1-ND J03-U11  rts: kernel terminated for reason 1004
+1132111184 R57-M1-N7 J03-U11  rts: kernel terminated for reason 1004
+1132111186 R57-M1-N9 J03-U11  rts: kernel terminated for reason 1004
+1132111188 R57-M0-N6 J03-U11  rts: kernel terminated for reason 1004
+1132111190 R56-M1-NA J03-U11  rts: kernel terminated for reason 1004
+1132111192 R56-M0-ND J03-U11  rts: kernel terminated for reason 1004
+1132111194 R57-M0-NF J03-U11  rts: kernel terminated for reason 1004
+1132111196 R57-M0-N9 J03-U11  rts: kernel terminated for reason 1004
+1132111197 R57-M0-NE J03-U11  rts: kernel terminated for reason 1004
+1132111198 R57-M1-N2 J03-U11  rts: kernel terminated for reason 1004
+1132111199 R56-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1132111201 R56-M1-N0 J03-U11  rts: kernel terminated for reason 1004
+1132111203 R56-M1-N4 J03-U11  rts: kernel terminated for reason 1004
+1132111206 R56-M0-N8 J03-U11  rts: kernel terminated for reason 1004
+1132111208 R56-M0-N4 J03-U11  rts: kernel terminated for reason 1004
+1132111210 R56-M0-NC J03-U11  rts: kernel terminated for reason 1004
+1132111212 R56-M1-NC J03-U11  rts: kernel terminated for reason 1004
+1132111214 R56-M1-N8 J03-U11  rts: kernel terminated for reason 1004
+1132111215 R57-M0-N4 J03-U11  rts: kernel terminated for reason 1004
+1132111217 R57-M1-N4 J03-U11  rts: kernel terminated for reason 1004
+1132111219 R57-M0-N0 J03-U11  rts: kernel terminated for reason 1004
+1132111221 R57-M0-NC J03-U11  rts: kernel terminated for reason 1004
+1132111223 R57-M1-N0 J03-U11  rts: kernel terminated for reason 1004
+1132111225 R57-M1-NC J03-U11  rts: kernel terminated for reason 1004
+1132111227 R57-M1-N8 J03-U11  rts: kernel terminated for reason 1004
+1132111230 R57-M0-N8 J03-U11  rts: kernel terminated for reason 1004
+1132111232 R56-M0-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111232 R56-M0-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111233 R56-M0-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111234 R56-M0-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111235 R56-M0-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111235 R56-M0-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111236 R56-M1-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111237 R56-M0-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111237 R56-M1-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111238 R56-M0-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111239 R56-M0-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111240 R56-M0-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111240 R56-M0-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111241 R57-M1-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111242 R56-M1-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111242 R57-M0-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111243 R56-M1-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111244 R56-M1-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111245 R57-M0-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111245 R57-M1-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111246 R57-M1-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111247 R57-M0-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111248 R57-M1-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111248 R57-M0-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111249 R56-M1-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111250 R56-M1-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111251 R56-M1-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111251 R56-M1-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111252 R56-M1-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111253 R56-M1-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111253 R57-M1-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111254 R57-M0-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111255 R57-M1-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111256 R57-M1-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111256 R57-M0-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111257 R57-M1-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111258 R57-M0-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111259 R57-M0-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111259 R57-M1-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111260 R57-M1-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111261 R57-M1-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111262 R57-M0-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111262 R56-M1-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111263 R56-M0-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111264 R57-M0-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111265 R57-M0-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111265 R57-M0-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111266 R57-M1-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111267 R56-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111268 R56-M1-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111268 R56-M1-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111269 R56-M0-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111270 R56-M0-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111271 R56-M0-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111271 R56-M1-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111272 R56-M1-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111273 R57-M0-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111273 R57-M1-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111274 R57-M0-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111275 R57-M0-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111276 R57-M1-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111276 R57-M1-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111277 R57-M1-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132111278 R57-M0-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=009756d5 8bfa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173420 R46-M1-NE J03-U11  rts: kernel terminated for reason 1004
+1132173421 R46-M1-NF J03-U11  rts: kernel terminated for reason 1004
+1132173423 R46-M1-N1 J03-U11  rts: kernel terminated for reason 1004
+1132173424 R46-M1-N9 J03-U11  rts: kernel terminated for reason 1004
+1132173425 R46-M1-N3 J03-U11  rts: kernel terminated for reason 1004
+1132173426 R46-M1-N7 J03-U11  rts: kernel terminated for reason 1004
+1132173427 R46-M1-N5 J03-U11  rts: kernel terminated for reason 1004
+1132173428 R46-M1-N2 J03-U11  rts: kernel terminated for reason 1004
+1132173429 R46-M1-ND J03-U11  rts: kernel terminated for reason 1004
+1132173431 R46-M1-NB J03-U11  rts: kernel terminated for reason 1004
+1132173432 R46-M1-NA J03-U11  rts: kernel terminated for reason 1004
+1132173433 R46-M1-N6 J03-U11  rts: kernel terminated for reason 1004
+1132173434 R46-M1-NC J03-U11  rts: kernel terminated for reason 1004
+1132173435 R46-M1-N4 J03-U11  rts: kernel terminated for reason 1004
+1132173436 R46-M1-N0 J03-U11  rts: kernel terminated for reason 1004
+1132173437 R46-M1-N8 J03-U11  rts: kernel terminated for reason 1004
+1132173438 R46-M1-NE J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173439 R46-M1-NF J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173440 R46-M1-N1 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173441 R46-M1-N9 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173441 R46-M1-N3 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173442 R46-M1-N7 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173443 R46-M1-N5 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173443 R46-M1-N2 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173444 R46-M1-ND J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173444 R46-M1-NB J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173445 R46-M1-NA J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173446 R46-M1-N6 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173447 R46-M1-NC J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173447 R46-M1-N4 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173448 R46-M1-N0 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1132173448 R46-M1-N8 J03-U11  Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0030114e 602d0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007
+1135571204 R63-M1-N5 J03-U11  machine check interrupt (bit=0x1d): L2 dcache unit write data parity error
+1135571204 R63-M1-N5 J03-U11  instruction address: 0x002a9da0
+1135571204 R63-M1-N5 J03-U11  Machine Check Status Register: 0x91800000
+1135571204 R63-M1-N5 J03-U11  machine check summary.............1
+1135571204 R63-M1-N5 J03-U11  instruction plb error.............0
+1135571204 R63-M1-N5 J03-U11  data read plb error...............0
+1135571204 R63-M1-N5 J03-U11  data write plb error..............1
+1135571205 R63-M1-N5 J03-U11  tlb error.........................0
+1135571205 R63-M1-N5 J03-U11  i-cache parity error..............0
+1135571205 R63-M1-N5 J03-U11  d-cache search parity error.......0
+1135571205 R63-M1-N5 J03-U11  d-cache flush parity error........1
+1135571205 R63-M1-N5 J03-U11  imprecise machine check...........1
+1135571205 R63-M1-N5 J03-U11  Machine State Register: 0x0002f900
+1135571205 R63-M1-N5 J03-U11  wait state enable.................0
+1135571206 R63-M1-N5 J03-U11  critical input interrupt enable...1
+1135571206 R63-M1-N5 J03-U11  external input interrupt enable...1
+1135571206 R63-M1-N5 J03-U11  problem state (0=sup,1=usr).......1
+1135571206 R63-M1-N5 J03-U11  floating point instr. enabled.....1
+1135571206 R63-M1-N5 J03-U11  machine check enable..............1
+1135571206 R63-M1-N5 J03-U11  floating pt ex mode 0 enable......1
+1135571206 R63-M1-N5 J03-U11  debug wait enable.................0
+1135571206 R63-M1-N5 J03-U11  debug interrupt enable............0
+1135571207 R63-M1-N5 J03-U11  floating pt ex mode 1 enable......1
+1135571207 R63-M1-N5 J03-U11  instruction address space.........0
+1135571207 R63-M1-N5 J03-U11  data address space................0
+1135571207 R63-M1-N5 J03-U11  Core Configuration Register 0: 0x00002000
+1135571207 R63-M1-N5 J03-U11  disable store gathering..................0
+1135571207 R63-M1-N5 J03-U11  disable apu instruction broadcast........0
+1135571207 R63-M1-N5 J03-U11  disable trace broadcast..................0
+1135571207 R63-M1-N5 J03-U11  guaranteed instruction cache block touch.0
+1135571208 R63-M1-N5 J03-U11  guaranteed data cache block touch........1
+1135571208 R63-M1-N5 J03-U11  force load/store alignment...............0
+1135571208 R63-M1-N5 J03-U11  icache prefetch depth....................0
+1135571208 R63-M1-N5 J03-U11  icache prefetch threshold................0
+1135571208 R63-M1-N5 J03-U11  General Purpose Registers:
+1135571208 R63-M1-N5 J03-U11  r00=0x00000370 r01=0x0ffea1c0 r02=0x1eeeeeee r03=0x3fdd0fef
+1135571208 R63-M1-N5 J03-U11  r04=0x40000000 r05=0x00000000 r06=0x43380000 r07=0x00000001
+1135571208 R63-M1-N5 J03-U11  r08=0x0031a180 r09=0x00320000 r10=0x0031b7c0 r11=0x0031cb30
+1135571209 R63-M1-N5 J03-U11  r12=0xffff0b37 r13=0x1eeeeeee r14=0x00360000 r15=0x007500b0
+1135571209 R63-M1-N5 J03-U11  r16=0x005cb3f8 r17=0x005cb358 r18=0x005ca830 r19=0x005ca830
+1135571209 R63-M1-N5 J03-U11  r20=0x00000001 r21=0x0000001f r22=0x00000004 r23=0x0070a268
+1135571209 R63-M1-N5 J03-U11  r24=0x0ffea290 r25=0x003d94e8 r26=0x0034f730 r27=0x00000000
+1135571209 R63-M1-N5 J03-U11  r28=0x0034f6c0 r29=0x002f2300 r30=0x0070a290 r31=0x003d94c0
+1135571209 R63-M1-N5 J03-U11  Special Purpose Registers:
+1135571209 R63-M1-N5 J03-U11  lr=0x002a5e78 cr=0x82484842 xer=0x20000002 ctr=0x00000000
+1135571209 R63-M1-N5 J03-U11  msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0x82064000
+1135571210 R63-M1-N5 J03-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x00002000
+1135571210 R63-M1-N5 J03-U11  Floating Point Status and Control Register: 0x82064000
+1135571210 R63-M1-N5 J03-U11  exception summary........................1
+1135571210 R63-M1-N5 J03-U11  enabled exception summary................0
+1135571210 R63-M1-N5 J03-U11  invalid operation exception summary......0
+1135571210 R63-M1-N5 J03-U11  overflow exception.......................0
+1135571210 R63-M1-N5 J03-U11  underflow exception......................0
+1135571210 R63-M1-N5 J03-U11  divide-by-zero exception.................0
+1135571211 R63-M1-N5 J03-U11  inexact exception........................1
+1135571211 R63-M1-N5 J03-U11  invalid (SNAN)...........................0
+1135571211 R63-M1-N5 J03-U11  invalid (Inf-Inf)........................0
+1135571211 R63-M1-N5 J03-U11  invalid (Inf/Inf)........................0
+1135571211 R63-M1-N5 J03-U11  invalid (Zero/Zero)......................0
+1135571211 R63-M1-N5 J03-U11  invalid (Inf/Zero).......................0
+1135571211 R63-M1-N5 J03-U11  invalid (compare)........................0
+1135571212 R63-M1-N5 J03-U11  fraction rounded.........................1
+1135571212 R63-M1-N5 J03-U11  fraction inexact.........................1
+1135571212 R63-M1-N5 J03-U11  quiet NaN................................0
+1135571212 R63-M1-N5 J03-U11  minus inf................................0
+1135571212 R63-M1-N5 J03-U11  minus normalized number..................0
+1135571212 R63-M1-N5 J03-U11  minus denormalized number................0
+1135571212 R63-M1-N5 J03-U11  minus zero...............................0
+1135571212 R63-M1-N5 J03-U11  plus zero................................0
+1135571213 R63-M1-N5 J03-U11  plus denormalized number.................0
+1135571213 R63-M1-N5 J03-U11  plus normalized number...................1
+1135571213 R63-M1-N5 J03-U11  plus infinity............................0
+1135571213 R63-M1-N5 J03-U11  reserved.................................0
+1135571213 R63-M1-N5 J03-U11  invalid operation exception (software)...0
+1135571213 R63-M1-N5 J03-U11  invalid operation exception (sqrt).......0
+1135571213 R63-M1-N5 J03-U11  invalid operation exception (int cnvt)...0
+1135571214 R63-M1-N5 J03-U11  enable invalid operation exceptions......0
+1135571214 R63-M1-N5 J03-U11  enable overflow exceptions...............0
+1135571214 R63-M1-N5 J03-U11  enable underflow exceptions..............0
+1135571214 R63-M1-N5 J03-U11  enable divide-by-zero exceptions.........0
+1135571214 R63-M1-N5 J03-U11  enable inexact exceptions................0
+1135571214 R63-M1-N5 J03-U11  enable non-IEEE mode.....................0
+1135571214 R63-M1-N5 J03-U11  round nearest............................0
+1135571215 R63-M1-N5 J03-U11  round toward zero........................0
+1135571215 R63-M1-N5 J03-U11  round toward +infinity...................0
+1135571215 R63-M1-N5 J03-U11  round toward -infinity...................0
+1135571215 R63-M1-N5 J03-U11  Floating Point Registers:
+1135571215 R63-M1-N5 J03-U11  fpr0=0x00000000 00000000 98000000 3fe92a8b
+1135571215 R63-M1-N5 J03-U11  fpr1=0x6d9f302d 00759b38 c5b18dbd 3fdd0fef
+1135571215 R63-M1-N5 J03-U11  fpr2=0x00000000 200006fa 1e1b2fae 40080650
+1135571215 R63-M1-N5 J03-U11  fpr3=0x00000000 00000000 82bb523c 3ff992df
+1135571216 R63-M1-N5 J03-U11  fpr4=0x00000000 00000000 00000000 bff00000
+1135571216 R63-M1-N5 J03-U11  fpr5=0x6d172905 407497d1 7ae147ae 4011ae14
+1135571216 R63-M1-N5 J03-U11  fpr6=0xfe1a782a 3fbdc5fe 6b99523a 3fe93231
+1135571216 R63-M1-N5 J03-U11  fpr7=0xbd0715ef 3fbdb8a5 9885abca beb8e10b
+1135571216 R63-M1-N5 J03-U11  fpr8=0xaade85b7 3f550919 000004dc 3fe00000
+1135571216 R63-M1-N5 J03-U11  fpr9=0x3007c6cb 40944c74 f69f8e08 3fdffffe
+1135571216 R63-M1-N5 J03-U11  fpr10=0x6ea1830b 40749745 74959e58 3de5102b
+1135571216 R63-M1-N5 J03-U11  fpr11=0xda1a727b 4095618c 58ed155e 3e2f742a
+1135571217 R63-M1-N5 J03-U11  fpr12=0x00000000 000000a0 15464563 3de51692
+1135571217 R63-M1-N5 J03-U11  fpr13=0x00000000 060006fb 0fdd8d22 3d8357c0
+1135571217 R63-M1-N5 J03-U11  fpr14=0xffffffff ffffffff 00000000 00000000
+1135571217 R63-M1-N5 J03-U11  fpr15=0xffffffff ffffffff 0e937f4b bfdac2f1
+1135571217 R63-M1-N5 J03-U11  fpr16=0xffffffff ffffffff 7ea58d2a 4005c078
+1135571217 R63-M1-N5 J03-U11  fpr17=0xffffffff ffffffff 00000000 3ff00000
+1135571217 R63-M1-N5 J03-U11  fpr18=0xffffffff ffffffff 00000000 00000000
+1135571217 R63-M1-N5 J03-U11  fpr19=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr20=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr21=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr22=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr23=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr24=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr25=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr26=0xffffffff ffffffff 00000000 00000000
+1135571218 R63-M1-N5 J03-U11  fpr27=0xffffffff ffffffff 00000000 00000000
+1135571219 R63-M1-N5 J03-U11  fpr28=0xffffffff ffffffff 00000000 40100000
+1135571219 R63-M1-N5 J03-U11  fpr29=0xffffffff ffffffff e2308c3a be45798e
+1135571219 R63-M1-N5 J03-U11  fpr30=0xffffffff ffffffff 00000000 3ff00000
+1135571219 R63-M1-N5 J03-U11  fpr31=0xffffffff ffffffff c5b18dbd 3fdd0fef
+1135571219 R63-M1-N5 J03-U11  rts panic! - stopping execution
+1135577215 R30-M0-N1 J03-U11  machine check interrupt (bit=0x06): L3 major internal error
+1135577215 R30-M0-N1 J03-U11  instruction address: 0x00207b2c
+1135577215 R30-M0-N1 J03-U11  Machine Check Status Register: 0xa0000000
+1135577215 R30-M0-N1 J03-U11  machine check summary.............1
+1135577215 R30-M0-N1 J03-U11  instruction plb error.............0
+1135577215 R30-M0-N1 J03-U11  data read plb error...............1
+1135577216 R30-M0-N1 J03-U11  data write plb error..............0
+1135577216 R30-M0-N1 J03-U11  tlb error.........................0
+1135577216 R30-M0-N1 J03-U11  i-cache parity error..............0
+1135577216 R30-M0-N1 J03-U11  d-cache search parity error.......0
+1135577216 R30-M0-N1 J03-U11  d-cache flush parity error........0
+1135577216 R30-M0-N1 J03-U11  imprecise machine check...........0
+1135577216 R30-M0-N1 J03-U11  Machine State Register: 0x0002f900
+1135577217 R30-M0-N1 J03-U11  wait state enable.................0
+1135577217 R30-M0-N1 J03-U11  critical input interrupt enable...1
+1135577217 R30-M0-N1 J03-U11  external input interrupt enable...1
+1135577217 R30-M0-N1 J03-U11  problem state (0=sup,1=usr).......1
+1135577217 R30-M0-N1 J03-U11  floating point instr. enabled.....1
+1135577217 R30-M0-N1 J03-U11  machine check enable..............1
+1135577218 R30-M0-N1 J03-U11  floating pt ex mode 0 enable......1
+1135577218 R30-M0-N1 J03-U11  debug wait enable.................0
+1135577218 R30-M0-N1 J03-U11  debug interrupt enable............0
+1135577218 R30-M0-N1 J03-U11  floating pt ex mode 1 enable......1
+1135577218 R30-M0-N1 J03-U11  instruction address space.........0
+1135577218 R30-M0-N1 J03-U11  data address space................0
+1135577218 R30-M0-N1 J03-U11  Core Configuration Register 0: 0x40002000
+1135577219 R30-M0-N1 J03-U11  disable store gathering..................0
+1135577219 R30-M0-N1 J03-U11  disable apu instruction broadcast........0
+1135577219 R30-M0-N1 J03-U11  disable trace broadcast..................0
+1135577219 R30-M0-N1 J03-U11  guaranteed instruction cache block touch.0
+1135577219 R30-M0-N1 J03-U11  guaranteed data cache block touch........1
+1135577219 R30-M0-N1 J03-U11  force load/store alignment...............0
+1135577220 R30-M0-N1 J03-U11  icache prefetch depth....................0
+1135577220 R30-M0-N1 J03-U11  icache prefetch threshold................0
+1135577220 R30-M0-N1 J03-U11  L3 global control register: 0x001249f0
+1135577220 R30-M0-N1 J03-U11  start initialization.....................0
+1135577220 R30-M0-N1 J03-U11  start retagging..........................0
+1135577220 R30-M0-N1 J03-U11  start flushing...........................0
+1135577221 R30-M0-N1 J03-U11  start prefetching........................0
+1135577221 R30-M0-N1 J03-U11  disable speculative access...............0
+1135577221 R30-M0-N1 J03-U11  close EDRAM pages as soon as possible....0
+1135577221 R30-M0-N1 J03-U11  size of scratchpad portion of L3.........0 (0M)
+1135577221 R30-M0-N1 J03-U11  disable all access to cache directory....0
+1135577221 R30-M0-N1 J03-U11  write buffer commit threshold............2
+1135577221 R30-M0-N1 J03-U11  size of DDR we are caching...............1 (512M)
+1135577222 R30-M0-N1 J03-U11  prefetch depth for core 0................1
+1135577222 R30-M0-N1 J03-U11  prefetch depth for core 1................1
+1135577222 R30-M0-N1 J03-U11  prefetch depth for PLB slave.............1
+1135577222 R30-M0-N1 J03-U11  max number of outstanding prefetches.....7
+1135577222 R30-M0-N1 J03-U11  turn on hidden refreshes.................1
+1135577222 R30-M0-N1 J03-U11  disable write lines 2:4..................0
+1135577222 R30-M0-N1 J03-U11  L3 ecc control register: 00000000
+1135577223 R30-M0-N1 J03-U11  capture first directory correctable error address..0
+1135577223 R30-M0-N1 J03-U11  capture first directory uncorrectable error address..0
+1135577223 R30-M0-N1 J03-U11  capture first EDRAM correctable error address..0
+1135577223 R30-M0-N1 J03-U11  capture first EDRAM uncorrectable error address..0
+1135577223 R30-M0-N1 J03-U11  capture first EDRAM parity error address..0
+1135577223 R30-M0-N1 J03-U11  capture first DDR uncorrectable error address..0
+1135577223 R30-M0-N1 J03-U11  disable flagging of DDR UE's as major internal error.0
+1135577224 R30-M0-N1 J03-U11  L3 ecc status register: 00200000
+1135577224 R30-M0-N1 J03-U11  correctable error detected in directory 0......0
+1135577224 R30-M0-N1 J03-U11  correctable error detected in directory 1......0
+1135577224 R30-M0-N1 J03-U11  uncorrectable error detected in directory 0....0
+1135577224 R30-M0-N1 J03-U11  uncorrectable error detected in directory 1....0
+1135577224 R30-M0-N1 J03-U11  correctable error detected in EDRAM bank 0.....0
+1135577225 R30-M0-N1 J03-U11  correctable error detected in EDRAM bank 1.....0
+1135577225 R30-M0-N1 J03-U11  uncorrectable error detected in EDRAM bank 0...0
+1135577225 R30-M0-N1 J03-U11  uncorrectable error detected in EDRAM bank 1...0
+1135577225 R30-M0-N1 J03-U11  parity error in bank 0.........................0
+1135577225 R30-M0-N1 J03-U11  parity error in bank 1.........................0
+1135577225 R30-M0-N1 J03-U11  uncorrectable error detected in external DDR...1
+1135577225 R30-M0-N1 J03-U11  parity error in read queue 0...................0
+1135577226 R30-M0-N1 J03-U11  parity error in read queue 1...................0
+1135577226 R30-M0-N1 J03-U11  parity error in read queue PLB.................0
+1135577226 R30-M0-N1 J03-U11  parity error in write buffer...................0
+1135577226 R30-M0-N1 J03-U11  number of correctable errors detected in L3 directories...0
+1135577226 R30-M0-N1 J03-U11  interrupt threshold...0
+1135577226 R30-M0-N1 J03-U11  number of correctable errors detected in L3 EDRAMs........0
+1135577227 R30-M0-N1 J03-U11  interrupt threshold...0
+1135577227 R30-M0-N1 J03-U11  number of lines with parity errors written to L3 EDRAMs...0
+1135577227 R30-M0-N1 J03-U11  DDR machine check register: 0x00000000 0x00010000
+1135577227 R30-M0-N1 J03-U11  memory and bus summary...........................0
+1135577227 R30-M0-N1 J03-U11  command manager unit summary.....................0
+1135577227 R30-M0-N1 J03-U11  memory manager uncorrectable error...............1
+1135577227 R30-M0-N1 J03-U11  memory manager strobe gate.......................0
+1135577228 R30-M0-N1 J03-U11  memory manager address parity error..............0
+1135577228 R30-M0-N1 J03-U11  memory manager miscompare........................0
+1135577228 R30-M0-N1 J03-U11  memory manager address error.....................0
+1135577228 R30-M0-N1 J03-U11  memory manager store buffer parity...............0
+1135577228 R30-M0-N1 J03-U11  memory manager RMW buffer parity.................0
+1135577228 R30-M0-N1 J03-U11  memory manager refresh...........................0
+1135577228 R30-M0-N1 J03-U11  memory manager refresh counter timeout...........0
+1135577229 R30-M0-N1 J03-U11  memory manager refresh contention................0
+1135577229 R30-M0-N1 J03-U11  state machine....................................0
+1135577229 R30-M0-N1 J03-U11  memory manager / command manager address parity..0
+1135577229 R30-M0-N1 J03-U11  regctl scancom interface.........................0
+1135577229 R30-M0-N1 J03-U11  DDR failing info register: DDR Fail Info Register: 0x90804000
+1135577229 R30-M0-N1 J03-U11  capture valid.........1
+1135577230 R30-M0-N1 J03-U11  symbol................16
+1135577230 R30-M0-N1 J03-U11  mask..................0x80
+1135577230 R30-M0-N1 J03-U11  miscompare............0
+1135577230 R30-M0-N1 J03-U11  uncorrectable error...1
+1135577230 R30-M0-N1 J03-U11  address parity error..0
+1135577230 R30-M0-N1 J03-U11  correctable error.....0
+1135577231 R30-M0-N1 J03-U11  qw trapped............0
+1135577231 R30-M0-N1 J03-U11  chip select...........0
+1135577231 R30-M0-N1 J03-U11  DDR failing data registers: 0x40642717 0x8dd026f5
+1135577231 R30-M0-N1 J03-U11  0x40615575 0x91d60988
+1135577231 R30-M0-N1 J03-U11  0x405ace5f 0x155e0196
+1135577231 R30-M0-N1 J03-U11  0xc04f5438 0x0b4ac325
+1135577231 R30-M0-N1 J03-U11  DDR failing address register: 0x00000008 0x03186080
+1135577232 R30-M0-N1 J03-U11  General Purpose Registers:
+1135577232 R30-M0-N1 J03-U11  r00=0x1ff3a108 r01=0x1f407c60 r02=0x1eeeeeee r03=0x0000000b
+1135577232 R30-M0-N1 J03-U11  r04=0x00000240 r05=0x1f407d34 r06=0x00000048 r07=0x0000a200
+1135577232 R30-M0-N1 J03-U11  r08=0x02ea6ff8 r09=0x00000048 r10=0x0000001d r11=0x02ead0b8
+1135577232 R30-M0-N1 J03-U11  r12=0x1ff40220 r13=0x1eeeeeee r14=0x1fcd0248 r15=0x1f9ed508
+1135577232 R30-M0-N1 J03-U11  r16=0x1fcd0708 r17=0x1f700108 r18=0x1ffa9708 r19=0x1fcd0948
+1135577232 R30-M0-N1 J03-U11  r20=0x1f427348 r21=0x1f714748 r22=0x1f9f7948 r23=0x00000000
+1135577233 R30-M0-N1 J03-U11  r24=0x1fcc6750 r25=0x1f9ed750 r26=0x0000a200 r27=0xfffffdc0
+1135577233 R30-M0-N1 J03-U11  r28=0x0000a200 r29=0x1ff401c8 r30=0x00000288 r31=0x03186110
+1135577233 R30-M0-N1 J03-U11  Special Purpose Registers:
+1135577233 R30-M0-N1 J03-U11  lr=0x00211414 cr=0x44424a44 xer=0x20000002 ctr=0x0000003d
+1135577233 R30-M0-N1 J03-U11  msr=0x0002f900 dear=0x00000000 esr=0x00000000 fpscr=0xaa202000
+1135577233 R30-M0-N1 J03-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000
+1135577234 R30-M0-N1 J03-U11  Floating Point Status and Control Register: 0xaa202000
+1135577234 R30-M0-N1 J03-U11  exception summary........................1
+1135577234 R30-M0-N1 J03-U11  enabled exception summary................0
+1135577234 R30-M0-N1 J03-U11  invalid operation exception summary......1
+1135577234 R30-M0-N1 J03-U11  overflow exception.......................0
+1135577234 R30-M0-N1 J03-U11  underflow exception......................1
+1135577235 R30-M0-N1 J03-U11  divide-by-zero exception.................0
+1135577235 R30-M0-N1 J03-U11  inexact exception........................1
+1135577235 R30-M0-N1 J03-U11  invalid (SNAN)...........................0
+1135577235 R30-M0-N1 J03-U11  invalid (Inf-Inf)........................0
+1135577235 R30-M0-N1 J03-U11  invalid (Inf/Inf)........................0
+1135577235 R30-M0-N1 J03-U11  invalid (Zero/Zero)......................1
+1135577236 R30-M0-N1 J03-U11  invalid (Inf/Zero).......................0
+1135577236 R30-M0-N1 J03-U11  invalid (compare)........................0
+1135577236 R30-M0-N1 J03-U11  fraction rounded.........................0
+1135577236 R30-M0-N1 J03-U11  fraction inexact.........................0
+1135577236 R30-M0-N1 J03-U11  quiet NaN................................0
+1135577236 R30-M0-N1 J03-U11  minus inf................................0
+1135577236 R30-M0-N1 J03-U11  minus normalized number..................0
+1135577237 R30-M0-N1 J03-U11  minus denormalized number................0
+1135577237 R30-M0-N1 J03-U11  minus zero...............................0
+1135577237 R30-M0-N1 J03-U11  plus zero................................1
+1135577237 R30-M0-N1 J03-U11  plus denormalized number.................0
+1135577237 R30-M0-N1 J03-U11  plus normalized number...................0
+1135577237 R30-M0-N1 J03-U11  plus infinity............................0
+1135577237 R30-M0-N1 J03-U11  reserved.................................0
+1135577238 R30-M0-N1 J03-U11  invalid operation exception (software)...0
+1135577238 R30-M0-N1 J03-U11  invalid operation exception (sqrt).......0
+1135577238 R30-M0-N1 J03-U11  invalid operation exception (int cnvt)...0
+1135577238 R30-M0-N1 J03-U11  enable invalid operation exceptions......0
+1135577238 R30-M0-N1 J03-U11  enable overflow exceptions...............0
+1135577238 R30-M0-N1 J03-U11  enable underflow exceptions..............0
+1135577238 R30-M0-N1 J03-U11  enable divide-by-zero exceptions.........0
+1135577239 R30-M0-N1 J03-U11  enable inexact exceptions................0
+1135577239 R30-M0-N1 J03-U11  enable non-IEEE mode.....................0
+1135577239 R30-M0-N1 J03-U11  round nearest............................0
+1135577239 R30-M0-N1 J03-U11  round toward zero........................0
+1135577239 R30-M0-N1 J03-U11  round toward +infinity...................0
+1135577239 R30-M0-N1 J03-U11  round toward -infinity...................0
+1135577240 R30-M0-N1 J03-U11  Floating Point Registers:
+1135577240 R30-M0-N1 J03-U11  fpr0=0x00000000 00000000 2b261a40 405c9101
+1135577240 R30-M0-N1 J03-U11  fpr1=0x00000001 00000028 00000000 00000000
+1135577240 R30-M0-N1 J03-U11  fpr2=0x00000000 00000000 00000000 00000000
+1135577240 R30-M0-N1 J03-U11  fpr3=0x00000000 00000000 32ddf600 3f54c612
+1135577240 R30-M0-N1 J03-U11  fpr4=0x00000000 00000000 82bea1c0 4031c3ab
+1135577240 R30-M0-N1 J03-U11  fpr5=0x00000000 00000000 00000000 3fe40e00
+1135577241 R30-M0-N1 J03-U11  fpr6=0x00000000 00000000 aa208000 7fffffff
+1135577241 R30-M0-N1 J03-U11  fpr7=0x00000000 00000000 00000000 40300000
+1135577241 R30-M0-N1 J03-U11  fpr8=0x00000000 00000000 00000001 3fe00000
+1135577241 R30-M0-N1 J03-U11  fpr9=0x00000000 00000000 70f05437 3fe55b3c
+1135577241 R30-M0-N1 J03-U11  fpr10=0x00000000 00000000 9ea86c07 3ff395d8
+1135577241 R30-M0-N1 J03-U11  fpr11=0x00000000 00000000 a1ffca24 3cfc763f
+1135577242 R30-M0-N1 J03-U11  fpr12=0x00000001 00000028 8c6eda20 3fea245a
+1135577242 R30-M0-N1 J03-U11  fpr13=0x00000000 00000000 00000000 7ff00000
+1135577242 R30-M0-N1 J03-U11  fpr14=0xffffffff ffffffff 51b67443 3fa0ebc6
+1135577242 R30-M0-N1 J03-U11  fpr15=0xffffffff ffffffff c07daabd 3fd7105d
+1135577242 R30-M0-N1 J03-U11  fpr16=0xffffffff ffffffff 286441a6 3fd73486
+1135577242 R30-M0-N1 J03-U11  fpr17=0xffffffff ffffffff cba426e9 3fdfa9b0
+1135577242 R30-M0-N1 J03-U11  fpr18=0xffffffff ffffffff 0957f037 bfd08056
+1135577243 R30-M0-N1 J03-U11  fpr19=0xffffffff ffffffff cba426eb 3fdfa9b0
+1135577243 R30-M0-N1 J03-U11  fpr20=0xffffffff ffffffff a64cf0a6 3fe9afbb
+1135577243 R30-M0-N1 J03-U11  fpr21=0xffffffff ffffffff 5ac187fe 3fb412e1
+1135577243 R30-M0-N1 J03-U11  fpr22=0xffffffff ffffffff 0957f037 bfd08056
+1135577243 R30-M0-N1 J03-U11  fpr23=0xffffffff ffffffff 5ac187fd 3fb412e1
+1135577243 R30-M0-N1 J03-U11  fpr24=0xffffffff ffffffff 7b1c0931 3fcb6897
+1135577244 R30-M0-N1 J03-U11  fpr25=0xffffffff ffffffff cba426eb 3fdfa9b0
+1135577244 R30-M0-N1 J03-U11  fpr26=0xffffffff ffffffff a64cf0a5 3fe9afbb
+1135577244 R30-M0-N1 J03-U11  fpr27=0xffffffff ffffffff 00000000 40f22000
+1135577244 R30-M0-N1 J03-U11  fpr28=0xffffffff ffffffff bfd1b691 3f035b01
+1135577244 R30-M0-N1 J03-U11  fpr29=0xffffffff ffffffff fb49cf55 3ef5cc7c
+1135577244 R30-M0-N1 J03-U11  fpr30=0xffffffff ffffffff 4f551a8d 3ff62da2
+1135577244 R30-M0-N1 J03-U11  fpr31=0xffffffff ffffffff 00000000 00000000
+1135577245 R30-M0-N1 J03-U11  rts panic! - stopping execution
+1135577245 R30-M0-N1 J03-U11  machine check interrupt (bit=0x06): L3 major internal error
+1135577245 R30-M0-N1 J03-U11  instruction address: 0x002ba3c0
+1135577245 R30-M0-N1 J03-U11  Machine Check Status Register: 0xa0000000
+1135577245 R30-M0-N1 J03-U11  machine check summary.............1
+1135577245 R30-M0-N1 J03-U11  instruction plb error.............0
+1135577246 R30-M0-N1 J03-U11  data read plb error...............1
+1135577246 R30-M0-N1 J03-U11  data write plb error..............0
+1135577246 R30-M0-N1 J03-U11  tlb error.........................0
+1135577246 R30-M0-N1 J03-U11  i-cache parity error..............0
+1135577246 R30-M0-N1 J03-U11  d-cache search parity error.......0
+1135577246 R30-M0-N1 J03-U11  d-cache flush parity error........0
+1135577247 R30-M0-N1 J03-U11  imprecise machine check...........0
+1135577247 R30-M0-N1 J03-U11  Machine State Register: 0x0000f000
+1135577247 R30-M0-N1 J03-U11  wait state enable.................0
+1135577247 R30-M0-N1 J03-U11  critical input interrupt enable...0
+1135577247 R30-M0-N1 J03-U11  external input interrupt enable...1
+1135577247 R30-M0-N1 J03-U11  problem state (0=sup,1=usr).......1
+1135577247 R30-M0-N1 J03-U11  floating point instr. enabled.....1
+1135577248 R30-M0-N1 J03-U11  machine check enable..............1
+1135577248 R30-M0-N1 J03-U11  floating pt ex mode 0 enable......0
+1135577248 R30-M0-N1 J03-U11  debug wait enable.................0
+1135577248 R30-M0-N1 J03-U11  debug interrupt enable............0
+1135577248 R30-M0-N1 J03-U11  floating pt ex mode 1 enable......0
+1135577248 R30-M0-N1 J03-U11  instruction address space.........0
+1135577248 R30-M0-N1 J03-U11  data address space................0
+1135577249 R30-M0-N1 J03-U11  Core Configuration Register 0: 0x40002000
+1135577249 R30-M0-N1 J03-U11  disable store gathering..................0
+1135577249 R30-M0-N1 J03-U11  disable apu instruction broadcast........0
+1135577249 R30-M0-N1 J03-U11  disable trace broadcast..................0
+1135577249 R30-M0-N1 J03-U11  guaranteed instruction cache block touch.0
+1135577249 R30-M0-N1 J03-U11  guaranteed data cache block touch........1
+1135577250 R30-M0-N1 J03-U11  force load/store alignment...............0
+1135577250 R30-M0-N1 J03-U11  icache prefetch depth....................0
+1135577250 R30-M0-N1 J03-U11  icache prefetch threshold................0
+1135577250 R30-M0-N1 J03-U11  L3 global control register: 0x001249f0
+1135577250 R30-M0-N1 J03-U11  start initialization.....................0
+1135577250 R30-M0-N1 J03-U11  start retagging..........................0
+1135577250 R30-M0-N1 J03-U11  start flushing...........................0
+1135577251 R30-M0-N1 J03-U11  start prefetching........................0
+1135577251 R30-M0-N1 J03-U11  disable speculative access...............0
+1135577251 R30-M0-N1 J03-U11  close EDRAM pages as soon as possible....0
+1135577251 R30-M0-N1 J03-U11  size of scratchpad portion of L3.........0 (0M)
+1135577251 R30-M0-N1 J03-U11  disable all access to cache directory....0
+1135577251 R30-M0-N1 J03-U11  write buffer commit threshold............2
+1135577252 R30-M0-N1 J03-U11  size of DDR we are caching...............1 (512M)
+1135577252 R30-M0-N1 J03-U11  prefetch depth for core 0................1
+1135577252 R30-M0-N1 J03-U11  prefetch depth for core 1................1
+1135577252 R30-M0-N1 J03-U11  prefetch depth for PLB slave.............1
+1135577252 R30-M0-N1 J03-U11  max number of outstanding prefetches.....7
+1135577252 R30-M0-N1 J03-U11  turn on hidden refreshes.................1
+1135577252 R30-M0-N1 J03-U11  disable write lines 2:4..................0
+1135577253 R30-M0-N1 J03-U11  L3 ecc control register: 00000000
+1135577253 R30-M0-N1 J03-U11  capture first directory correctable error address..0
+1135577253 R30-M0-N1 J03-U11  capture first directory uncorrectable error address..0
+1135577253 R30-M0-N1 J03-U11  capture first EDRAM correctable error address..0
+1135577253 R30-M0-N1 J03-U11  capture first EDRAM uncorrectable error address..0
+1135577253 R30-M0-N1 J03-U11  capture first EDRAM parity error address..0
+1135577253 R30-M0-N1 J03-U11  capture first DDR uncorrectable error address..0
+1135577254 R30-M0-N1 J03-U11  disable flagging of DDR UE's as major internal error.0
+1135577254 R30-M0-N1 J03-U11  L3 ecc status register: 00200000
+1135577254 R30-M0-N1 J03-U11  correctable error detected in directory 0......0
+1135577254 R30-M0-N1 J03-U11  correctable error detected in directory 1......0
+1135577254 R30-M0-N1 J03-U11  uncorrectable error detected in directory 0....0
+1135577254 R30-M0-N1 J03-U11  uncorrectable error detected in directory 1....0
+1135577255 R30-M0-N1 J03-U11  correctable error detected in EDRAM bank 0.....0
+1135577255 R30-M0-N1 J03-U11  correctable error detected in EDRAM bank 1.....0
+1135577255 R30-M0-N1 J03-U11  uncorrectable error detected in EDRAM bank 0...0
+1135577255 R30-M0-N1 J03-U11  uncorrectable error detected in EDRAM bank 1...0
+1135577255 R30-M0-N1 J03-U11  parity error in bank 0.........................0
+1135577255 R30-M0-N1 J03-U11  parity error in bank 1.........................0
+1135577255 R30-M0-N1 J03-U11  uncorrectable error detected in external DDR...1
+1135577256 R30-M0-N1 J03-U11  parity error in read queue 0...................0
+1135577256 R30-M0-N1 J03-U11  parity error in read queue 1...................0
+1135577256 R30-M0-N1 J03-U11  parity error in read queue PLB.................0
+1135577256 R30-M0-N1 J03-U11  parity error in write buffer...................0
+1135577256 R30-M0-N1 J03-U11  number of correctable errors detected in L3 directories...0
+1135577256 R30-M0-N1 J03-U11  interrupt threshold...0
+1135577256 R30-M0-N1 J03-U11  number of correctable errors detected in L3 EDRAMs........0
+1135577257 R30-M0-N1 J03-U11  interrupt threshold...0
+1135577257 R30-M0-N1 J03-U11  number of lines with parity errors written to L3 EDRAMs...0
+1135577257 R30-M0-N1 J03-U11  DDR machine check register: 0x00000000 0x00010000
+1135577257 R30-M0-N1 J03-U11  memory and bus summary...........................0
+1135577257 R30-M0-N1 J03-U11  command manager unit summary.....................0
+1135577257 R30-M0-N1 J03-U11  memory manager uncorrectable error...............1
+1135577257 R30-M0-N1 J03-U11  memory manager strobe gate.......................0
+1135577258 R30-M0-N1 J03-U11  memory manager address parity error..............0
+1135577258 R30-M0-N1 J03-U11  memory manager miscompare........................0
+1135577258 R30-M0-N1 J03-U11  memory manager address error.....................0
+1135577258 R30-M0-N1 J03-U11  memory manager store buffer parity...............0
+1135577258 R30-M0-N1 J03-U11  memory manager RMW buffer parity.................0
+1135577258 R30-M0-N1 J03-U11  memory manager refresh...........................0
+1135577258 R30-M0-N1 J03-U11  memory manager refresh counter timeout...........0
+1135577259 R30-M0-N1 J03-U11  memory manager refresh contention................0
+1135577259 R30-M0-N1 J03-U11  state machine....................................0
+1135577259 R30-M0-N1 J03-U11  memory manager / command manager address parity..0
+1135577259 R30-M0-N1 J03-U11  regctl scancom interface.........................0
+1135577259 R30-M0-N1 J03-U11  DDR failing info register: DDR Fail Info Register: 0x90804000
+1135577259 R30-M0-N1 J03-U11  capture valid.........1
+1135577260 R30-M0-N1 J03-U11  symbol................16
+1135577260 R30-M0-N1 J03-U11  mask..................0x80
+1135577260 R30-M0-N1 J03-U11  miscompare............0
+1135577260 R30-M0-N1 J03-U11  uncorrectable error...1
+1135577260 R30-M0-N1 J03-U11  address parity error..0
+1135577260 R30-M0-N1 J03-U11  correctable error.....0
+1135577260 R30-M0-N1 J03-U11  qw trapped............0
+1135577261 R30-M0-N1 J03-U11  chip select...........0
+1135577261 R30-M0-N1 J03-U11  DDR failing data registers: 0x40642717 0x8dd026f5
+1135577261 R30-M0-N1 J03-U11  0x40615575 0x91d60988
+1135577261 R30-M0-N1 J03-U11  0x405ace5f 0x155e0196
+1135577261 R30-M0-N1 J03-U11  0xc04f5438 0x0b4ac325
+1135577261 R30-M0-N1 J03-U11  DDR failing address register: 0x00000008 0x03186080
+1135577261 R30-M0-N1 J03-U11  General Purpose Registers:
+1135577261 R30-M0-N1 J03-U11  r00=0xb1140000 r01=0x1fffffc0 r02=0x1eeeeeee r03=0x002ba3d4
+1135577262 R30-M0-N1 J03-U11  r04=0xb1150000 r05=0x0352f5e0 r06=0x002ba3d4 r07=0x00000000
+1135577262 R30-M0-N1 J03-U11  r08=0x002b9c5c r09=0xa0000048 r10=0xb1150000 r11=0xb1150000
+1135577262 R30-M0-N1 J03-U11  r12=0x00001cf3 r13=0x1eeeeeee r14=0x004eff08 r15=0x004eff10
+1135577262 R30-M0-N1 J03-U11  r16=0x00000011 r17=0x0066fa50 r18=0x00657450 r19=0x0352b8d0
+1135577262 R30-M0-N1 J03-U11  r20=0x40000000 r21=0x40000000 r22=0x0ffe9b20 r23=0x00000000
+1135577262 R30-M0-N1 J03-U11  r24=0x00000000 r25=0x00000000 r26=0x00000000 r27=0x000ce5c8
+1135577262 R30-M0-N1 J03-U11  r28=0x00000005 r29=0xa0000020 r30=0xa00000c0 r31=0x00000028
+1135577263 R30-M0-N1 J03-U11  Special Purpose Registers:
+1135577263 R30-M0-N1 J03-U11  lr=0x002ba3d4 cr=0x28004422 xer=0x20000002 ctr=0x002b9c5c
+1135577263 R30-M0-N1 J03-U11  msr=0x0000f000 dear=0x00000000 esr=0x00000000 fpscr=0x00002000
+1135577263 R30-M0-N1 J03-U11  dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000
+1135577263 R30-M0-N1 J03-U11  Floating Point Status and Control Register: 0x00002000
+1135577263 R30-M0-N1 J03-U11  exception summary........................0
+1135577263 R30-M0-N1 J03-U11  enabled exception summary................0
+1135577264 R30-M0-N1 J03-U11  invalid operation exception summary......0
+1135577264 R30-M0-N1 J03-U11  overflow exception.......................0
+1135577264 R30-M0-N1 J03-U11  underflow exception......................0
+1135577264 R30-M0-N1 J03-U11  divide-by-zero exception.................0
+1135577264 R30-M0-N1 J03-U11  inexact exception........................0
+1135577264 R30-M0-N1 J03-U11  invalid (SNAN)...........................0
+1135577265 R30-M0-N1 J03-U11  invalid (Inf-Inf)........................0
+1135577265 R30-M0-N1 J03-U11  invalid (Inf/Inf)........................0
+1135577265 R30-M0-N1 J03-U11  invalid (Zero/Zero)......................0
+1135577265 R30-M0-N1 J03-U11  invalid (Inf/Zero).......................0
+1135577265 R30-M0-N1 J03-U11  invalid (compare)........................0
+1135577265 R30-M0-N1 J03-U11  fraction rounded.........................0
+1135577265 R30-M0-N1 J03-U11  fraction inexact.........................0
+1135577266 R30-M0-N1 J03-U11  quiet NaN................................0
+1135577266 R30-M0-N1 J03-U11  minus inf................................0
+1135577266 R30-M0-N1 J03-U11  minus normalized number..................0
+1135577266 R30-M0-N1 J03-U11  minus denormalized number................0
+1135577266 R30-M0-N1 J03-U11  minus zero...............................0
+1135577266 R30-M0-N1 J03-U11  plus zero................................1
+1135577266 R30-M0-N1 J03-U11  plus denormalized number.................0
+1135577267 R30-M0-N1 J03-U11  plus normalized number...................0
+1135577267 R30-M0-N1 J03-U11  plus infinity............................0
+1135577267 R30-M0-N1 J03-U11  reserved.................................0
+1135577267 R30-M0-N1 J03-U11  invalid operation exception (software)...0
+1135577267 R30-M0-N1 J03-U11  invalid operation exception (sqrt).......0
+1135577267 R30-M0-N1 J03-U11  invalid operation exception (int cnvt)...0
+1135577267 R30-M0-N1 J03-U11  enable invalid operation exceptions......0
+1135577268 R30-M0-N1 J03-U11  enable overflow exceptions...............0
+1135577268 R30-M0-N1 J03-U11  enable underflow exceptions..............0
+1135577268 R30-M0-N1 J03-U11  enable divide-by-zero exceptions.........0
+1135577268 R30-M0-N1 J03-U11  enable inexact exceptions................0
+1135577268 R30-M0-N1 J03-U11  enable non-IEEE mode.....................0
+1135577268 R30-M0-N1 J03-U11  round nearest............................0
+1135577268 R30-M0-N1 J03-U11  round toward zero........................0
+1135577269 R30-M0-N1 J03-U11  round toward +infinity...................0
+1135577269 R30-M0-N1 J03-U11  round toward -infinity...................0
+1135577269 R30-M0-N1 J03-U11  Floating Point Registers:
+1135577269 R30-M0-N1 J03-U11  fpr0=0x00000000 20001cf3 07080000 01000313
+1135577269 R30-M0-N1 J03-U11  fpr1=0x00000000 00000000 00000000 00000000
+1135577269 R30-M0-N1 J03-U11  fpr2=0x77ce1048 bfe675e5 b65c522f 40052e40
+1135577270 R30-M0-N1 J03-U11  fpr3=0x0000000f 00000048 564e8f93 bff74167
+1135577270 R30-M0-N1 J03-U11  fpr4=0xbb6bd241 bfd7147c 6f2832ff 3fe1a8bc
+1135577270 R30-M0-N1 J03-U11  fpr5=0x902606e3 3fe7e35a 243d0164 c0152a1b
+1135577270 R30-M0-N1 J03-U11  fpr6=0x4331eec8 bfe662a7 1129f091 40050650
+1135577270 R30-M0-N1 J03-U11  fpr7=0x0000000f 00000048 8fd87920 bff7d205
+1135577270 R30-M0-N1 J03-U11  fpr8=0x91190b3b bfcbd0a0 117324af 3fe184d6
+1135577270 R30-M0-N1 J03-U11  fpr9=0x7c98c7a9 40096363 3c10b7f0 3ffe6634
+1135577271 R30-M0-N1 J03-U11  fpr10=0x66666666 3ff66666 66666666 3ff66666
+1135577271 R30-M0-N1 J03-U11  fpr11=0x695c6701 3e4363aa 77478fd9 3fe0d90f
+1135577271 R30-M0-N1 J03-U11  fpr12=0x66666666 3ff66666 66666666 3ff66666
+1135577271 R30-M0-N1 J03-U11  fpr13=0x00000000 00000000 00000000 00000000
+1135577271 R30-M0-N1 J03-U11  fpr14=0xffffffff ffffffff 51a2e894 3fa0ebc6
+1135577271 R30-M0-N1 J03-U11  fpr15=0xffffffff ffffffff c077ed88 3fd7105d
+1135577271 R30-M0-N1 J03-U11  fpr16=0xffffffff ffffffff 285a7579 3fd73486
+1135577272 R30-M0-N1 J03-U11  fpr17=0xffffffff ffffffff cba6b931 3fdfa9b0
+1135577272 R30-M0-N1 J03-U11  fpr18=0xffffffff ffffffff 0969c74e bfd08056
+1135577272 R30-M0-N1 J03-U11  fpr19=0xffffffff ffffffff cba6b933 3fdfa9b0
+1135577272 R30-M0-N1 J03-U11  fpr20=0xffffffff ffffffff a64ab0da 3fe9afbb
+1135577272 R30-M0-N1 J03-U11  fpr21=0xffffffff ffffffff 5acef46a 3fb412e1
+1135577272 R30-M0-N1 J03-U11  fpr22=0xffffffff ffffffff 0969c74e bfd08056
+1135577272 R30-M0-N1 J03-U11  fpr23=0xffffffff ffffffff 5acef46a 3fb412e1
+1135577273 R30-M0-N1 J03-U11  fpr24=0xffffffff ffffffff 7b18f47c 3fcb6897
+1135577273 R30-M0-N1 J03-U11  fpr25=0xffffffff ffffffff cba6b933 3fdfa9b0
+1135577273 R30-M0-N1 J03-U11  fpr26=0xffffffff ffffffff a64ab0da 3fe9afbb
+1135577273 R30-M0-N1 J03-U11  fpr27=0xffffffff ffffffff 00000000 40f22000
+1135577273 R30-M0-N1 J03-U11  fpr28=0xffffffff ffffffff 65ba448d 3f47a534
+1135577273 R30-M0-N1 J03-U11  fpr29=0xffffffff ffffffff a4b4a2c9 3f7692ef
+1135577274 R30-M0-N1 J03-U11  fpr30=0xffffffff ffffffff 6212b8d4 3cc675fc
+1135577274 R30-M0-N1 J03-U11  fpr31=0xffffffff ffffffff 00000000 00000000
+1135577274 R30-M0-N1 J03-U11  rts panic! - stopping execution

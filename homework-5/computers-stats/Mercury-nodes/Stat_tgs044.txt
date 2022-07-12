@@ -1,0 +1,13 @@
+
+== Total error entries ==
+3224
+
+== Breakup by CATEGORY ==
+I-O 3208
+OTH 14
+NET 2
+
+== Breakup by NODE* ==
+tg-s044 3224
+  * only the 10 most occurring nodes are reported
+

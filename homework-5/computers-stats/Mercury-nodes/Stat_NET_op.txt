@@ -1,0 +1,20 @@
+
+== Total error entries ==
+3702
+
+== Breakup by CATEGORY ==
+NET 3702
+
+== Breakup by NODE* ==
+tg-master 3639
+tg-c550 33
+tg-c196 14
+tg-c238 3
+tg-s044 2
+tg-c027 2
+tg-s176 1
+tg-s131 1
+tg-login3 1
+tg-login2 1
+  * only the 10 most occurring nodes are reported
+

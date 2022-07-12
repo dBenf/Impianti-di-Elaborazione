@@ -1,0 +1,13 @@
+
+== Total error entries ==
+1716
+
+== Breakup by CATEGORY ==
+J14-U01 1562
+J18-U11 77
+J18-U01 77
+
+== Breakup by NODE* ==
+R71-M0-N4 1716
+  * only the 10 most occurring nodes are reported
+

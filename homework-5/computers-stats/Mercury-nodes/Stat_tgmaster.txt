@@ -1,0 +1,15 @@
+
+== Total error entries ==
+4098
+
+== Breakup by CATEGORY ==
+NET 3639
+I-O 452
+OTH 3
+DEV 3
+MEM 1
+
+== Breakup by NODE* ==
+tg-master 4098
+  * only the 10 most occurring nodes are reported
+

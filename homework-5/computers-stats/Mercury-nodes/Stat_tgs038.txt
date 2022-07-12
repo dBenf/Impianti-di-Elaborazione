@@ -1,0 +1,11 @@
+
+== Total error entries ==
+230
+
+== Breakup by CATEGORY ==
+I-O 230
+
+== Breakup by NODE* ==
+tg-s038 230
+  * only the 10 most occurring nodes are reported
+

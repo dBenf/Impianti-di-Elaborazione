@@ -1,0 +1,12 @@
+
+== Total error entries ==
+382
+
+== Breakup by CATEGORY ==
+I-O 381
+NET 1
+
+== Breakup by NODE* ==
+tg-login3 382
+  * only the 10 most occurring nodes are reported
+

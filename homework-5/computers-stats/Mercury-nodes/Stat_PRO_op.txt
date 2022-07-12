@@ -1,0 +1,20 @@
+
+== Total error entries ==
+1504
+
+== Breakup by CATEGORY ==
+PRO 1504
+
+== Breakup by NODE* ==
+tg-c648 616
+tg-c324 239
+tg-c284 180
+tg-c451 159
+tg-c447 136
+tg-c415 61
+tg-c733 28
+tg-c027 22
+tg-c533 18
+tg-c645 9
+  * only the 10 most occurring nodes are reported
+

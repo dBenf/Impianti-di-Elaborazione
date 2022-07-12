@@ -1,0 +1,13 @@
+
+== Total error entries ==
+4030
+
+== Breakup by CATEGORY ==
+DEV 3176
+MEM 845
+I-O 9
+
+== Breakup by NODE* ==
+tg-c572 4030
+  * only the 10 most occurring nodes are reported
+

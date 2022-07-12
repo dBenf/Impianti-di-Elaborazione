@@ -1,0 +1,20 @@
+
+== Total error entries ==
+49932
+
+== Breakup by CATEGORY ==
+J18-U01 49932
+
+== Breakup by NODE* ==
+R64-M0-N4 133
+R63-M0-NC 133
+R64-M0-N8 132
+R65-M0-N8 131
+R65-M0-N4 131
+R63-M0-N0 131
+R61-M0-N8 131
+R60-M0-N4 131
+R65-M1-N0 130
+R63-M0-N4 130
+  * only the 10 most occurring nodes are reported
+

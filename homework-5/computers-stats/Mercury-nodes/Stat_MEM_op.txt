@@ -1,0 +1,20 @@
+
+== Total error entries ==
+12819
+
+== Breakup by CATEGORY ==
+MEM 12819
+
+== Breakup by NODE* ==
+tg-c401 11558
+tg-c572 845
+tg-c238 197
+tg-c242 149
+tg-c894 28
+tg-c407 14
+tg-c669 10
+tg-c735 6
+tg-c117 5
+tg-c757 3
+  * only the 10 most occurring nodes are reported
+
